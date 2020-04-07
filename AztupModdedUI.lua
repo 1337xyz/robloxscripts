@@ -114,7 +114,7 @@ local function initLibrary()
 	UserInputService.InputBegan:Connect(function(Input, gameProcessedEvent)
     	if gameProcessedEvent then return end
 
-    	if Input.KeyCode == Enum.KeyCode.RightShift then
+    	if Input.KeyCode == Enum.KeyCode.RightControl then
         	gui.Enabled = not gui.Enabled
     	end
 	end)
