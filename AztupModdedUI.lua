@@ -118,6 +118,7 @@ local function initLibrary()
         	gui.Enabled = not gui.Enabled
     	end
 	end)
+		
         local main = library:Create("Frame", {
             Name = "main";
             Parent = gui;
