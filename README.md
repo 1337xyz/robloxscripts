@@ -1,2 +1,3 @@
 # robloxscripts
-- [x] Epic
+- [x] bad script hub
+
