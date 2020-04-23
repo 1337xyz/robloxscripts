@@ -1,3 +1,3 @@
-# robloxscripts
-- [x] bad script hub
+# 1337.xyz hub
+- [x] Bad Script Hub
 
