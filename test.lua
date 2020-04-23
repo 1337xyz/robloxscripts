@@ -1,1 +1,1 @@
-prin("yayayayya")
+print("yayayayya")
